@@ -38,3 +38,12 @@ h1{
     -webkit-animation:focus-in-expand-fwd .8s cubic-bezier(.25,.46,.45,.94) both;
     animation:focus-in-expand-fwd .8s cubic-bezier(.25,.46,.45,.94) both;
 }
+
+.container{
+    margin-top: 150px;
+}
+
+footer{
+    margin-top: 80px;
+}
+
