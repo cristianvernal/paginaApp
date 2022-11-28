@@ -43,7 +43,12 @@ h1{
     margin-top: 150px;
 }
 
-footer{
-    margin-top: 80px;
+.texto{
+    margin-top: 10px;
 }
 
+.gato{
+    width: 150px;
+    justify-items: center;
+    margin-left: 44%;
+}
